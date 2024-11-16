@@ -1,0 +1,50 @@
+= Rabbitを使ったスライドのテスト
+
+: subtitle
+   zennにも記事あります
+: author
+   @imaizume
+: institution
+   XXX 株式会社
+: content-source
+   YYY Kaigi
+: date
+   2024-11-16
+: allotted-time
+   60m
+: start-time
+   2024-11-16T18:30:00+09:00
+: end-time
+   2024-11-16T19:30:00+09:00
+: theme
+   theme
+
+= 最初のスライド
+
+  * 項目1
+  * 項目2
+  * *項目3*
+
+= 最初のスライド
+
+  * 項目1
+  * 項目2
+  * *項目3*
+
+= 最初のスライド
+
+  * 項目1
+  * 項目2
+  * *項目3*
+
+= 最初のスライド
+
+  * 項目1
+  * 項目2
+  * *項目3*
+
+= 二番目のスライド
+
+  # image
+  # src = https://raw.github.com/rabbit-shocker/rabbit/master/sample/lavie.png
+  # relative_height = 100
